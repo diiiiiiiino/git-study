@@ -3,6 +3,6 @@ public class StringUtils {
 
     public void print(){
         System.out.println(this.str);
-        System.out.print("---");
+        System.out.print("AAA");
     }
 }
